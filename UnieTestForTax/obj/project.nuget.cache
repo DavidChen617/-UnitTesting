@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSIwVvPi5ls=",
+  "success": true,
+  "projectFilePath": "/Users/chendavid/Desktop/UnitTestings/UnieTestForTax/UnieTestForTax.csproj",
+  "expectedPackageFiles": [
+    "/Users/chendavid/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/chendavid/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/chendavid/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

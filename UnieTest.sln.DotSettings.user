@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F802f44a269bc1bfd4d39a024f7dbb5c2bf04beadfc5418d61399caaaa5613a_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=1AFB209C_002D54C8_002D4064_002D9543_002D4C4ECBE29C8A/@EntryIndexedValue">UnieTestForTax.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=MSTest/@EntryIndexedValue">d6790ab7-33c2-4425-b2c9-51480cd1a852</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a997874_002D9b8d_002D4713_002D8354_002D572cbbf3b783/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Given_Income_100000_When_CalculateTax_Then_5000" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::CB03B843-1708-4D0F-B0F7-D91E2FD6A01F::net8.0::UnieTestForTax.Tests.CalculateTaxTest.Given_Income_100000_When_CalculateTax_Then_5000&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CB03B843-1708-4D0F-B0F7-D91E2FD6A01F::net8.0::UnieTestForTax.Tests.CalculateTaxTest.Given_Income_540_000_When_CalculateTax_Then_27_000&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CB03B843-1708-4D0F-B0F7-D91E2FD6A01F::net8.0::UnieTestForTax.Tests.CalculateTaxTest.Given_Income_540_001_When_CalculateTax_Then_27_000_12&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9762c7d6_002D845f_002D40a0_002D9897_002Dfc5c50a5ac4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Given_Income_540_001_When_CalculateTax_Then_27_000_12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::CB03B843-1708-4D0F-B0F7-D91E2FD6A01F::net8.0::UnieTestForTax.Tests.CalculateTaxTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
